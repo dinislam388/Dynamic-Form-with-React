@@ -1,0 +1,118 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conatiner {
+    background-color: #161C2D;
+    height: 140vh;
+    max-width: 1440px;
+    padding: 5rem;
+}
+
+.heading {
+    color: #fff;
+    font-size: 3rem;
+}
+
+.inputFild input {
+    margin-top: 20px;
+    padding: 20px 14rem 13px 10px;
+    background-color: #161C2D;
+    color: #fff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    font-size: 16px;
+}
+
+.inputFild button{
+    margin-top: 30px;
+    padding: 10px 40px;
+    font-size: 16px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    background-color: #495FEF;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.inputFild button:hover {
+color: #fff;
+background-color: #697bf2;
+}
+
+.formBox {
+    width: 20%;
+}
+
+.headingText {
+    color: #fff;
+    margin-top: 10px;
+    font-size: 19.5px;
+}
+
+.shop {
+    color: #fff;
+    margin-top: 15px;
+} 
+
+.colorSelect {
+    margin-top: 20px;
+    padding: 20px 19.5rem 13px 10px;
+    background-color: #161C2D;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    font-size: 16px;
+    color: #757375;
+}
+
+
+
+.WhiteColor {
+    color: #fff;
+}
+
+.redColor {
+    color: red;
+}
+
+.blackColor {
+    color: black;
+}
+
+.greenColor {
+    color: green;
+}
+
+.blueColor {
+    color: blue;
+}
+
+.redioSelect input {
+    gap: 30px;
+    margin-left: 10px;
+}
+
+.redioSelect {
+    color: #757375;
+    margin-top: 20px;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0px;
+
+}
+
+/* 
+color: #757375;
+    margin-top: 20px;
+    /* border: 2px solid red; */
+    border-bottom: 1px solid #fff;
+    padding: 10px 0px;
+    padding-right: 30rem; */
